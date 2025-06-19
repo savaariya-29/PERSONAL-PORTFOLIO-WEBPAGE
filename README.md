@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-#project Description: Personal Portfolio Webpage
+##project Description: Personal Portfolio Webpage
 
 Description:
 The project involves designing and developing a responsive single-page portfolio website using HTML and CSS to showcase the profile and projects of an aspiring Data Analyst. The website is fully navigable through a sticky navigation bar that smoothly scrolls to various sections of the page including Home, About, Projects, and Contact.
